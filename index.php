@@ -3,7 +3,7 @@ require($_SERVER['DOCUMENT_ROOT'] . '/bitrix/header.php');
 $APPLICATION->SetTitle("Главная");
 ?>
 
-123456777
+12345677788666000
 
 <?
 require($_SERVER['DOCUMENT_ROOT'] . '/bitrix/footer.php');
